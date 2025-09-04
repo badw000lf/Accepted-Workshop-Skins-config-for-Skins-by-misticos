@@ -1,5 +1,7 @@
 # **Skins.json file for Skins by misticos on Umod**
 
+**Since August 2025 You cannot use this is a normal rust server it is only for test servers i suppose**
+
 This is **unoffically** allowed as stated in the support category https://umod.org/community/skins/5923-adding-all-approved-skins
 <br><br>
 But I sat there for a week including late nights till 3-4am building this collection siving through RustLabs skins inputting data one by so I'm keeping this updated every week! 
